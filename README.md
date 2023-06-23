@@ -1,5 +1,5 @@
 ## my link
-*baidu.com
-*google.com
-*youtub.com
-*twitter.com
+* baidu.com
+* google.com
+* youtub.com
+* twitter.com
